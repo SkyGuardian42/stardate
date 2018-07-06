@@ -17,5 +17,4 @@ const currentStarDate = stardate({
   minute: now.getMinutes(),
   second: now.getSeconds(),
 });
-
 ```
